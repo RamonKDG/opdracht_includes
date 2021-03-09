@@ -1,4 +1,4 @@
-<?php include('layouts/header.php'); ?>
+<?php include('../layouts/header.php'); ?>
 
 <!-- Masthead-->
         <header class="masthead">
@@ -11,6 +11,6 @@
             </div>
         </header>
 
-<?php include('layouts/footer.php'); ?>
+<?php include('../layouts/footer.php'); ?>
 
 

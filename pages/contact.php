@@ -1,4 +1,4 @@
-<?php include('layouts/header.php'); ?>
+<?php include('../layouts/header.php'); ?>
 
 <!-- Signup-->
         <section class="signup-section" id="signup">
@@ -59,4 +59,4 @@
             </div>
         </section>
 
-<?php include('layouts/footer.php'); ?>
+<?php include('../layouts/footer.php'); ?>
